@@ -49,8 +49,5 @@ public class AdminBean
 		this.phno = phno;
 	}
        
-       // delete it
-        public void some()
-       {}
-	
+    
 }

@@ -8,7 +8,7 @@ public class AdminBean
 	private String lname;
 	private String mailid;
 
-	private String phno=39845;
+	private String phno;
 
 
 	 AdminBean()

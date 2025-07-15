@@ -9,6 +9,7 @@ public class AdminDao
 	public  int register(AdminBean bean)
 	{
 		int k=0;
+               int u=10;
 		try
 		{
 			Connection con=DBConnection.getCon();

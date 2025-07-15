@@ -13,7 +13,7 @@ public class AdminBean
 
 	 AdminBean()
 	{
-		
+		int a=0;
 	}
 	public String getAdminName() {
 		return AdminName;

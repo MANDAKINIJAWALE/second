@@ -48,5 +48,9 @@ public class AdminBean
 	public void setPhno(String phno) {
 		this.phno = phno;
 	}
+       
+       // delete it
+        public void some()
+       {}
 	
 }

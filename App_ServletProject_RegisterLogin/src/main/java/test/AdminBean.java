@@ -8,8 +8,6 @@ public class AdminBean
 	private String lname;
 	private String mailid;
 	private String phno;
-
-          for(int i=0;i<4;i++){}
 	 AdminBean()
 	{
 		
@@ -51,6 +49,5 @@ public class AdminBean
 		this.phno = phno;
 	}
        
-   
     
 }
